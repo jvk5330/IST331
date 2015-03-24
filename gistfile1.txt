@@ -1,2 +1,37 @@
-<html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-------------JQuery-------------->
+    <!--Content Delivery Network-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    
+<!--------------------META-DATA----------------->
+    <meta charset="utf-8" />
+    <meta name="description" content="PaintingApp" />
+    <meta name="keywords" content="paint, art" />
+    <meta name="author" content="Jon Wojcik" />
+    
+    <!--------------------CSS------------------------>
+    <!-- This is an externam style sheet reference -->
+    <link rel="stylesheet" type="text/css" href="styles/painting_site.css" />
+    
+</head>
+    <!-----------------------------HEADER-------------------------------------->
+<header>
+<!--Put name of app or company here-->
+</header>
+<body>
+	<div id="Home">
+	</div>
+	<div id="About">
+	</div>
+	<div id="Features">
+	</div>
+	<div id="LogIn">
+	</div>
+	<div id="Projects">
+	</div>
+</body>
+<footer>
+</footer>
 </html>
